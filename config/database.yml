@@ -1,0 +1,9 @@
+development:
+  adapter: postgresql
+  database: renewfinancial_development
+  template: template0
+
+test:
+  adapter: postgresql
+  database: renewfinancial_test
+  template: template0
